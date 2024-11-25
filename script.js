@@ -40,6 +40,7 @@ function printEvenNumbersWhile(value) {
         return;
     }
 
+    
     let i = 2;
     while (i < value) {
         console.log(i);
